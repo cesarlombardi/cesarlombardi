@@ -1,16 +1,17 @@
-Hi there 👋
-I'm Cesar Augusto Lombardi. Currently I'm a full stack web developer.
+## Hi there 👋
+I'm **Cesar Augusto Lombardi**. Currently I'm a full stack web developer.
 
 Currently I'm working with React and Node, but I also worked with Java, Angular, AngularJS, MySql, Oracle, Postgres, and others.
 
 🎓 I graduated in Business with focus on international trade, but few years later I decided to move my career to a different area.
 I thought I was too old for tech and used to say to myself: "It's not possible to learn programming!". 
 After recognizing that if I didn't learn I would be left behind I changed the phrase to: "It's not possible NOT to learn programming!"
-Guess what! I did learn, and I LOVED it!
+Guess what! I did learn, and I **LOVED** it!
 
-I am passionate about people, finances and Tech.
-So, if you love finances and/or tech and are a human being, let's connect! 
+I am passionate about people :family_man_woman_girl_boy:, finances :chart: and Tech :desktop_computer:.
+So, if you love finances and/or tech and are a human being, let's connect! :link:
 Maybe we can collaborate, maybe we can build something great!
+
 
 <a href="https://www.w3.org/TR/html5/" title="HTML5" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="35px" height="35px" style="max-width: 100%;"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="35px" height="35px" style="max-width: 100%;"></a>
